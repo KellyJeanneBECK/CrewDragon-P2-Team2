@@ -6,7 +6,7 @@
 
 ## Projet
 
-Duels in Hogwarts est un projet d'école utilisant l'[API] (https://hp-api.onrender.com/) Harry Potter et Tailwind CSS pour le style.
+Duels in Hogwarts est un projet d'école utilisant l'[API](https://hp-api.onrender.com/) Harry Potter et Tailwind CSS pour le style.
 <br />
 Inspiré de l'indémodable "pierre, papier, ciseaux", le jeu se joue en 3 manches. Choisissez bien vos sorts pour remporter la bataille !
 
